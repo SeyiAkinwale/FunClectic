@@ -1,5 +1,7 @@
 html {
   height: 100%;
   width: 100%;
-  background: rgb(0, 35, 255);
+  background: linear-gradient( #7EC8E3 90%, #000FFF);
 }
+
+img{background: #000FFF; }
