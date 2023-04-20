@@ -1,8 +1,8 @@
 html {
   height: 100%;
   width: 100%;
-  background: linear-gradient( #7EC8E3 90%, #000FFF);
+  background: #7EC8E3;
   color: Navy;
 }
 
-img{background: #000FFF; border-radius: 75px; }
+img{background: #FFFFFF; border-radius: 75px; }
