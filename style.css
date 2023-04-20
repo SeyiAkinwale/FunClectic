@@ -5,4 +5,5 @@ html {
   color: Navy;
 }
 
-img{background: #FFFFFF; border-radius: 75px; }
+img{background: #FFFFFF; border-radius: 75px; padding: -10px; border: 10px solid blue;}
+
